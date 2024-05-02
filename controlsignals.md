@@ -31,6 +31,7 @@ The Value of Time
 Accurate timing is essential for control signal effectiveness. To keep the proper order of operations across the system, each signal needs to be precisely timed to turn on and off at the appropriate times. The system clock controls this crucial timing, ensuring that every part of the computer operates at the same time. 
 1. Hardwired control is a technique in computer architecture that uses a fixed set of hardware circuits to regulate the control unit operations within a CPU. This results in control signals. Hardwired control is dependent on a particular configuration of logic gates, flip-flops, and other electronic components to directly execute control signals, in contrast to microprogrammed control, which implements the control unit through software. 
 
+![WhatsApp Image 2024-05-02 at 19 20 35_be99babe](https://github.com/Sreemannbalaji157/Co-article/assets/168350031/58547717-d8d2-4a53-a845-753acabad568)
 
 ## The following is an explanation of the hardwired control's operational flow: 
 
